@@ -28,9 +28,8 @@
 
 ## 🌐 Live Demo
 
-> _Deploy on Vercel / Netlify and place the link here._
-
-**🔗 [PizzaPe Live](https://pizzape.vercel.app/)
+> _Deploy on Vercel_
+**🔗 [PizzaPe Live](https://pizzape.vercel.app/)**
 
 ---
 
